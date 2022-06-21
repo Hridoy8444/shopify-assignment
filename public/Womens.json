@@ -1,0 +1,44 @@
+[
+    {
+        "id": "01",
+        "name": "GAZELLE SHOES",
+        "price": 849,
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e4233367991242369243ada4004be1ea_9366/Gazelle_ADV_Shoes_Black_GW3141_01_standard.jpg"
+        
+    },
+    {
+        "id": "02",
+        "name": "GAZELLE SHOES",
+        "price": 999,
+        "img": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/698e41ae0196408eb16aa7fb008046ad_9366/Gazelle_Shoes_Blue_BB5478_01_standard.jpg"
+        
+    },
+    {
+        "id": "03",
+        "name": "ASTIR SHOES",
+        "price": 1159,
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/255f9e48ab6e4c93ada6ad650106eaec_9366/Astir_Shoes_White_GZ1637_01_standard.jpg"
+        
+    },
+    {
+        "id": "04",
+        "name": "ASTIR SHOES",
+        "price": 1169,
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/127bbf0361774b69aabead6400ede354_9366/Astir_Shoes_White_GY1122_01_standard.jpg"
+        
+    },
+    {
+        "id": "05",
+        "name": "ASTIR SHOES",
+        "price": 1079,
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a059b39c93d3411c9ae9ad6500f69a2d_9366/Astir_Shoes_Silver_GY1121_01_standard.jpg"
+        
+    },
+    {
+        "id": "06",
+        "name": "OZWEEGO SHOES",
+        "price": 1099,
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/81e360572bd044d0ba4fad860127c4a3_9366/OZWEEGO_Shoes_White_GW5623_01_standard.jpg"
+        
+    }
+]

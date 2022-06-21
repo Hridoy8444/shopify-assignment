@@ -1,0 +1,44 @@
+[
+    {
+        "id": "01",
+        "name": "SUPERSTAR SHOES",
+        "price": 449,
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/774d52bd06ef4b01bc7bad9000d6654e_9366/Superstar_Shoes_White_GY3321_01_standard.jpg"
+        
+    },
+    {
+        "id": "02",
+        "name": "SUPERSTAR 360",
+        "price": 599,
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5c91bf011d3f4d66ae89ad6700701373_9366/Superstar_360_Shoes_White_GX3273_01_standard.jpg"
+        
+    },
+    {
+        "id": "03",
+        "name": "ADIDAS X DISNEY",
+        "price": 559,
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d00a1b2dedef49daaef5ad710099a409_9366/adidas_x_LEGO(r)_Sport_Pro_Shoes_Black_GW8124_01_standard.jpg"
+        
+    },
+    {
+        "id": "04",
+        "name": "SPIDER-MAN",
+        "price": 869,
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/80acc10c1f7b4ff5a411ae4700148c78_9366/adidas_x_Marvel_Spider-Man_Fortarun_Shoes_Red_GZ0656_01_standard.jpg"
+        
+    },
+    {
+        "id": "05",
+        "name": "ADIDAS NMD 360x",
+        "price": 669,
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b2815383ebc44bc49158ae7b010f7115_9366/adidas_NMD_360_x_LEGO(r)_Shoes_Black_GX3328_01_standard.jpg"
+        
+    },
+    {
+        "id": "06",
+        "name": "SUPERSTAR X ",
+        "price": 799,
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/299e81e189e6473386daad7900dd6dce_9366/adidas_Superstar_x_LEGO(r)_Shoes_Black_GX3383_01_standard.jpg"
+        
+    }
+]

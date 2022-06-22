@@ -1,0 +1,38 @@
+[
+    {
+        "id": "01",
+        "name": "TOUR360 ",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e15069d9cd604e75b783adfa0139bc2b_9366/Tour360_22_Golf_Shoes_White_GX4128_01_standard.jpg",
+        "price": 1239
+    },
+    {
+        "id": "02",
+        "name": "X LEGO®",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d00a1b2dedef49daaef5ad710099a409_9366/adidas_x_LEGO(r)_Sport_Pro_Shoes_Black_GW8124_01_standard.jpg",
+        "price": 1379
+    },
+    {
+        "id": "03",
+        "name": "ADIDAS NMD",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b2815383ebc44bc49158ae7b010f7115_9366/adidas_NMD_360_x_LEGO(r)_Shoes_Black_GX3328_01_standard.jpg",
+        "price": 1459 
+    },
+    {
+        "id": "04",
+        "name": "ADIDAS 4D",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/763aac638a2e4c68964eadfd00d75936_9366/adidas_4D_FWD_x_Parley_Shoes_White_GZ8625_01_standard.jpg",
+        "price": 1569
+    },
+    {
+        "id": "05",
+        "name": "ULTRA 4D",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d73e9f88553f421ca593ad56011e064a_9366/Ultra_4D_Shoes_White_GZ1590_01_standard.jpg",
+        "price": 1859
+    },
+    {
+        "id": "06",
+        "name": "ULTRABOOST",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/503d32a857e54c21b330ae0200356969_9366/Ultraboost_5_DNA_Shoes_White_GZ0428_01_standard.jpg",
+        "price": 1859
+    }
+]

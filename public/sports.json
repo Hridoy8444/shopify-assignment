@@ -1,0 +1,38 @@
+[
+    {
+        "id": "01",
+        "name": "ADIZERO X",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/dfc5f46677ba437daefead8d00ff62f4_9366/ADIZERO_X_ALLBIRDS_2.94_KG_CO2E_White_H02740_01_standard.jpg",
+        "price": 2345
+    },
+    {
+        "id": "02",
+        "name": "ADIZERO X ",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e4561ce4719c47da9f7cae0700c34f8e_9366/ADIZERO_X_ALLBIRDS_2.94_KG_CO2E_White_GZ4283_01_standard.jpg",
+        "price": 2134
+    },
+    {
+        "id": "03",
+        "name": "ULTRABOOST 22",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2328a9be2ed34081882fad79008367fc_9366/Ultraboost_22_COLD.RDY_Shoes_Grey_GZ0128_01_standard.jpg",
+        "price": 2169
+    },
+    {
+        "id": "04",
+        "name": "SUPERNOVA",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6c4661f797fd4e6a9640ad6b00717b91_9366/Supernova+_Shoes_Black_GX2905_01_standard.jpg",
+        "price":2139
+    },
+    {
+        "id": "05",
+        "name": "X KARLIE",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/00a67d2ec6924281915aad6b00826958_9366/adidas_x_Karlie_Kloss_X9000_Shoes_Pink_GY0859_01_standard.jpg",
+        "price": 2357
+    },
+    {
+        "id": "06",
+        "name": "RESPONSE SHOES",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a36fec9a7bbb4c3193feadf800d318d2_9366/Response_Shoes_White_GW6564_01_standard.jpg",
+        "price": 2399
+    }
+]
